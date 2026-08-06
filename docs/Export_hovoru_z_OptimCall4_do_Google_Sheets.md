@@ -1,3 +1,4 @@
+---\ntitle: Export hovorů z OptimCall 4 do Google Sheets\n---
 # Export hovorů z OptimCall 4 do Google Sheets
 
 Revize: 6. 8. 2026
